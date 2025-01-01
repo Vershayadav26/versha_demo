@@ -1,3 +1,3 @@
 # versha_demo
-This is my First Git Reprository
+This is my First Git Reprository.
 Author - versha yadav
